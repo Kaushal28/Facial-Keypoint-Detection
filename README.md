@@ -1,5 +1,5 @@
 # Facial-Keypoint-Detection
-15 Facial key-point recognition using Tensorflow from scratch using different neural network models.
+15 Facial key-point recognition using Tensorflow from scratch using different neural network models. Used training dataset from this Kaggle challenge: https://www.kaggle.com/c/facial-keypoints-detection
 
 ## Approaches
 1. Simple Fully Connected Nueral Network with single hidden layer with 100 nuerons. Trained this model with 100 epochs and got training error `0.0065` and validation error `0.0089`.
